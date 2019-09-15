@@ -1,0 +1,7 @@
+pip
+
+pip3 --version     # version check
+pip3 install		# install with pip3
+pythons -m pip install --upgrade pip --user  #upgrade with user permission
+pip3 install numpy   # install one package 
+pip3 install -r requirements.txt     #install multiple packages with txt file
